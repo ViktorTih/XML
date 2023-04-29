@@ -1,1 +1,10 @@
-
+   <root>
+        <id>уникальный_номер_дефекта</id>
+        <severity>серьезность_дефекта</severity>
+        <Environment>окружение_на_котором_обнаружен_дефект</Environment>
+        <Title>что?где?когда?</Title>
+        <Steps>шаги_для_воспроизведения_дефекта</Steps>
+        <Expected_Result>ожидаемый_результат</Expected_Result>
+        <Actual_Result>фактический_результат</Actual_Result>
+        <Attachment>ссылка_на_видео_или_фото_дефекта</Attachment>
+  </root>
