@@ -18,13 +18,24 @@
 # XML
  21. **Создать внешний репозиторий c названием XML.**
 
->**Создаем внешний репозиторий на github**
+>**Создаем внешний репозиторий на github ->**
+>
+>**жмём "New" ->**
+>
+>**в поле "Repository name" вводим "XML" ->**
+>
+>**ставим галочку "Add a README file" ->**
+>
+>**жмём "Create repository"**
 
- `"XML"`
 
  22. **Клонировать репозиторий XML на локальный компьютер.**
  
->**Копируем ссылку на репозиторий, заходим в локальную папку гита, прописываем в консоле**
+>**в GitHub жмём на внешний репозиторий "XML" ->** 
+>
+>**жмём "<> Code" и копируем ссылку на репозиторий ->**
+>
+>**заходим в локальную папку гита, прописываем в "terminal"**
 
  `git clone https://github.com/ViktorTih/XML.git`
 
@@ -107,7 +118,8 @@
        <web>Web Services</web>
        <DevTools>DevTools</DevTools>
        <mobile>Mobile Testing</mobile>
-       <we<load>Load testing</load>
+       <webTesting>Web Testing</webTesting>
+       <load>Load testing</load>
 
     </root>
 
